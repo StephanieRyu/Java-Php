@@ -1,3 +1,3 @@
 <?php
-	include_once("claveria.html");
+	include_once("javaphp.html");
 ?>
